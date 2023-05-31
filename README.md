@@ -8,4 +8,7 @@
 </p>
 
 ## About Laravel
+https://youtu.be/0HPa2SPeQtg
 
+## Nama
+Ananda Hadi Saputra - 5025201148
